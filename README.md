@@ -22,7 +22,12 @@ x install ru-cdc
 - **Latest**: `x86-ver-0.1.1` (2024-03-14)
 - **Last commit**: 2024-03-14
 - **Assets in release**: 1
-- **Published**: 2024-03-14T03:06:18Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [ru-cdc-ver-0.1.1-x86.zip](https://github.com/ipconfiger/ru-cdc/releases/download/x86-ver-0.1.1/ru-cdc-ver-0.1.1-x86.zip) | 2.6 MiB | `other` |
 
 ## Popularity
 
@@ -55,8 +60,8 @@ Total: **2,757** lines of code across **12** files in the top 5 languages.
 Install metadata for ru-cdc lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `ru-cdc` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/ru-cdc.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/ru-cdc.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:55:56Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:38:38Z._

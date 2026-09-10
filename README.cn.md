@@ -4,7 +4,7 @@
 
 Another CDC Tool Written by Rust
 
-![ru-cdc](https://repo.x-cmd.io/ru-cdc.svg)
+![ru-cdc](https://repo.x-cmd.io/ru-cdc.svg?lang=zh)
 
 ## 安装
 
@@ -22,7 +22,12 @@ x install ru-cdc
 - **最新版本**: `x86-ver-0.1.1` (2024-03-14)
 - **最近提交**: 2024-03-14
 - **Release 含资产**: 1 个
-- **发布时间**: 2024-03-14T03:06:18Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [ru-cdc-ver-0.1.1-x86.zip](https://github.com/ipconfiger/ru-cdc/releases/download/x86-ver-0.1.1/ru-cdc-ver-0.1.1-x86.zip) | 2.6 MiB | `other` |
 
 ## 流行度
 
@@ -59,4 +64,4 @@ ru-cdc 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:55:56Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:38:38Z._
